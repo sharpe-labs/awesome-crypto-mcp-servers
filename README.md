@@ -9,6 +9,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 ## Server Implementations
 
+- [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) - Real-time cryptocurrency market data integration powered by [CoinCap](https://coincap.io)'s public API - get instant access to crypto prices and comprehensive market data with 0 authentication required. No API keys needed
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) - Real-time cryptocurrency market data integration powered by [CoinMarketCap](https://coinmarketcap.com/)'s API
 
